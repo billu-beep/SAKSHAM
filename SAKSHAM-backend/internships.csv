@@ -1,0 +1,26 @@
+id,title,min_education,required_skills,location
+1,Frontend Developer Intern,bachelor,"html|css|javascript|react",Bengaluru
+2,Backend Developer Intern,bachelor,"python|sql|flask",Shillong
+3,Data Science Intern,bachelor,"python|pandas|numpy",Hyderabad
+4,Graphic Design Intern,diploma,"photoshop|illustrator|figma",Mumbai
+5,Cloud Engineer Intern,bachelor,"aws|linux|docker",Pune
+6,Digital Marketing Intern,diploma,"seo|sem|social media",Delhi
+7,Human Resources Intern,bachelor,"communication|ms office",Kolkata
+8,Mobile App Developer (Android),bachelor,"kotlin|java|android studio",Chennai
+9,Content Writer Intern,diploma,"english|grammar|blogging",Remote
+10,UI/UX Design Intern,bachelor,"figma|adobe xd|wireframing",Bengaluru
+11,IT Support Specialist,diploma,"troubleshooting|networking",Guwahati
+12,Project Management Intern,bachelor,"jira|agile|scrum",Mumbai
+13,Business Analyst Intern,bachelor,"sql|excel|power bi",Hyderabad
+14,DevOps Intern,bachelor,"git|jenkins|kubernetes",Pune
+15,E-commerce Operations Intern,diploma,"inventory management|excel",Delhi
+16,Tourism & Hospitality Intern,diploma,"customer service|communication",Shillong
+17,Cybersecurity Analyst Intern,bachelor,"networking|wireshark|linux",Bengaluru
+18,AI/ML Research Intern,master,"pytorch|tensorflow|python",Hyderabad
+19,Supply Chain Intern,bachelor,"logistics|excel",Kolkata
+20,Legal Assistant Intern,bachelor,"legal research|drafting",Delhi
+21,Video Editor Intern,diploma,"adobe premiere|after effects",Remote
+22,AgriTech Intern,bachelor,"iot|python|data analysis",Guwahati
+23,Finance Intern,bachelor,"excel|tally|accounting",Mumbai
+24,CAD Designer Intern,diploma,"autocad|solidworks",Chennai
+25,Environmental Science Intern,bachelor,"research|data collection",Shillong
